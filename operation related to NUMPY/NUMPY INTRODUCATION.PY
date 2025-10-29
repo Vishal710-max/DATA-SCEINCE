@@ -56,4 +56,5 @@ print (arr2[0:2,1:3])#[[20 30]
 
 #3D array
 print(arr3[0:2,1:4]) 
-print (arr3[0:2:1])  # all working is same like 1D and 2D array
+print (arr3[0:1:1])  
+# all working is same like 1D and 2D array
