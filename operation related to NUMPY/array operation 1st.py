@@ -35,6 +35,7 @@ print("variance of all elements :",np.var(arr1))
 v1=np.std(arr1)
 print ("STANDARD DEVATION OF AN ARRAY :",v1)
 
+print(sum(arr2))
 a=np.sort (arr1)
 print ("array in ASCENDING order :",a)
 v=arr1.sort(reverse=True)
