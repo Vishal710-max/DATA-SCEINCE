@@ -9,7 +9,7 @@ arr3=np.array ([[[1,2,3],[4,5,6],[7,8,9]]])
 #like we applay mean,sum,argmax,average etc on 1D array same we appaly them into 2D & 3D with axis=0 & axis=1
 #some arhithematic operation on array :
 
-print ("after adding 5 array become :",arr1+5)
+print ("after adding 10 array become :",arr1+10)
 print ("after substraction 5 array become :",arr1-5)
 print ("after multiplication 5 array become :",arr1*5)
 print ("after division 5 array become :",arr1/5)
