@@ -1,7 +1,7 @@
 import numpy as np
 print ("current version of numpy :",np.__version__) #checking the version of numpy
 
-arr=np.array ([1,3,6,9,10,90,8])
+arr=np.array ([1,3,6,9,10])
 print (arr)
 print (type(arr)) #type function can show the type of object pased to function
 
