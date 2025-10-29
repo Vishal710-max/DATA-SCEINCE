@@ -20,6 +20,8 @@ print ("after modulation 5 array become :",arr1%5)
 print("sin values :",np.sin(arr1))
 print("cos values :",np.cos(arr1))
 print("tan values :",np.tan(arr1))
+print("tan values :",np.tan(arr2))
+
 
 print("biggest elements :",np.max(arr1))
 print("smallset value :",min(arr1))
